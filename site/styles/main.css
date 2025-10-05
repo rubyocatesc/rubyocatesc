@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+.width-wrap {
+    max-width: 960px;
+    margin-left:auto;
+    margin-right:auto;
+    padding: 0 2em 2em;
+    border:1px solid rgba(0,0,0,0.3);
+    border-top: none;
+    margin-bottom: 3em;
+}
